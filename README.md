@@ -1,2 +1,3 @@
-# BERT_Classfication
-study Classfication
+# NLP_study
+study 
+Bert_Classfication_newsgroups
